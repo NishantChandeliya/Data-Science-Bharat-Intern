@@ -41,8 +41,7 @@ divCash: The amount of cash dividend paid out to shareholders on the given day.
 splitFactor: The split factor, if any, applied to Google's stock on the given day. A split factor of 1 indicates no split.
 
 #### Dataset : https://www.kaggle.com/datasets/shreenidhihipparagi/google-stock-prediction
-
-#### Solution: 
+ 
 
 
 ## Task 2
@@ -75,4 +74,4 @@ Cabin: Cabin number
 Embarked: Port of embarkation (C = Cherbourg, Q = Queenstown, S = Southampton)
 
 #### Dataset : https://www.kaggle.com/datasets/rahulsah06/titanic
-#### Solution:
+
