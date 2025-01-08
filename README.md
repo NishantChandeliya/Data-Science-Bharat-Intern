@@ -1,4 +1,4 @@
-# Bharat-Intern-Tasks
+
 ## Task 1
 ### Problem statement :
 
